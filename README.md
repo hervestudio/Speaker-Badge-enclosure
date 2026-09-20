@@ -13,12 +13,19 @@ and the firmware in
 
 | | |
 |---|---|
-| ![Back shell with the power-switch housing](img/back_shell_switch.png) | ![Back shell without it](img/back_shell_plain.png) |
-| `back_shell_medium_switch.stl` | `back_shell_medium.stl` |
+| ![Front shell, outer face](img/front_shell.png) | ![Button caps and screw caps on one plate](img/small_parts_plate.png) |
+| `front_shell_medium.stl` — screen cutout, three button counterbores, four screw counterbores. The counterbores look filled because each is closed by a sacrificial membrane (see [After printing](#after-printing)). | `small_parts_plate.stl` — the three button caps and the four screw caps laid out for a single print. |
 
 ## Choose your back shell
 
-Print **one** of the two. They are identical except for the switch housing.
+| | |
+|---|---|
+| ![Back shell with the power-switch housing](img/back_shell_switch.png) | ![Back shell without it](img/back_shell_plain.png) |
+| `back_shell_medium_switch.stl` | `back_shell_medium.stl` |
+
+Print **one** of the two. They are identical except for the switch housing,
+visible top-left above: the flange recess, the lever slot and the two
+retaining pins.
 
 **`back_shell_medium_switch.stl` — recommended.** Adds a housing for a
 physical power switch: a recess for the switch flange, a through slot for the
