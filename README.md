@@ -13,7 +13,7 @@ and the firmware in
 
 | | |
 |---|---|
-| ![Front shell, outer face](img/front_shell.png) | ![Button caps and screw caps on one plate](img/small_parts_plate.png) |
+| ![Front shell, outer face](img/front_shell_outer.png) | ![Button caps and screw caps on one plate](img/caps_plate.png) |
 | `front_shell_medium.stl` — screen cutout, three button counterbores, four screw counterbores. The counterbores look filled because each is closed by a sacrificial membrane (see [After printing](#after-printing)). | `small_parts_plate.stl` — the three button caps and the four screw caps laid out for a single print. |
 
 ## Choose your back shell
